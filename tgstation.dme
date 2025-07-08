@@ -8247,6 +8247,7 @@
 #include "modular_nova\modules\lorecaster\code\config.dm"
 #include "modular_nova\modules\lorecaster\code\story_manager.dm"
 #include "modular_nova\modules\lorecaster\code\subsystem.dm"
+#include "modular_nova\modules\lunchboxes\code\lunchbox.dm"
 #include "modular_nova\modules\magfed_turret\code\assembly.dm"
 #include "modular_nova\modules\magfed_turret\code\designators.dm"
 #include "modular_nova\modules\magfed_turret\code\spawners.dm"
